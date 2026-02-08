@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.configuration.workspaceCacheLimit": 90,
+    "java.sources.organizeImports.starThreshold": 99,
+    "java.sources.organizeImports.staticStarThreshold": 99,
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "build/classes",
+    "java.import.gradle.enabled": true,
+    "java.import.gradle.wrapper.enabled": true
+}
